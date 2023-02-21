@@ -153,11 +153,6 @@
     "@docsearch/css" "3.3.3"
     "algoliasearch" "^4.0.0"
 
-"@esbuild/linux-x64@0.16.17":
-  "integrity" "sha512-mdPjPxfnmoqhgpiEArqi4egmBAMYvaObgn4poorpUaqmvzzbvqbowRllQ+ZgzGVMGKaPkqUmPDOOFQRUFDmeUw=="
-  "resolved" "https://registry.npmmirror.com/@esbuild/linux-x64/-/linux-x64-0.16.17.tgz"
-  "version" "0.16.17"
-
 "@types/web-bluetooth@^0.0.16":
   "integrity" "sha512-oh8q2Zc32S6gd/j50GowEjKLoOVOwHP/bWVjKJInBwQqdOYMdPrf1oVlelTlyfFK3CKxL1uahMDAr+vy8T7yMQ=="
   "resolved" "https://registry.npmmirror.com/@types/web-bluetooth/-/web-bluetooth-0.0.16.tgz"
