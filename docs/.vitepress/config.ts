@@ -16,10 +16,8 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: "主页", link: "index.html" },
-          { text: "BBS注册指南", link: "BBSregister.html" },
-          { text: "BBS论坛规则", link: "BBSrules.html" },
-          { text: "PT注册指南", link: "PTregister.html" },
-          { text: "PT论坛规则", link: "PTrules.html" }
+          { text: "注册指南", link: "register.html" },
+          { text: "论坛规则", link: "rules.html" }
         ],
       }],
       '/data/':[{
@@ -27,10 +25,8 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: "主页", link: "index.html" },
-          { text: "BBS注册指南", link: "BBSregister.html" },
-          { text: "BBS论坛规则", link: "BBSrules.html" },
-          { text: "PT注册指南", link: "PTregister.html" },
-          { text: "PT论坛规则", link: "PTrules.html" }
+          { text: "注册指南", link: "register.html" },
+          { text: "论坛规则", link: "rules.html" }
         ],
       }]
     },
