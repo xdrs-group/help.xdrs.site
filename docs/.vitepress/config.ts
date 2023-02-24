@@ -1,31 +1,36 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  title: "无纸化平台",
+  title: "西电睿思-通知栏",
   lang: 'zh-CN',
-  description: "领先的金融应用SaaS提供商",
+  description: "一个小小的通知栏",
   themeConfig: {
     nav: nav(),
     footer: {
-      message: "欢迎访问无纸化平台 Copyright © 2023 对策府库",
-      //copyright: '<a href="http://beian.miit.gov.cn" target="_blank" rel="noopener noreferrer">吉ICP备2022004975号-7</a>'
+      message: "欢迎访问睿思通知栏",
+      //copyright: '<a href="http://beian.miit.gov.cn" target="_blank" rel="noopener noreferrer"> 陕ICP备05016463号-3</a>'
     },
     sidebar: {
       '/':[{
-        text: "使用指导",
+        text: "索引",
         collapsed: false,
         items: [
-          { text: "介绍", link: "/guide/getting-started.html" },
-          { text: "更新日志", link: "/guide/log.html" },
-          { text: "更多推荐", link: "/guide/more.html" },
-          { text: "致谢", link: "/guide/thanks.html" },
+          { text: "主页", link: "index.html" },
+          { text: "BBS注册指南", link: "BBSregister.html" },
+          { text: "BBS论坛规则", link: "BBSrules.html" },
+          { text: "PT注册指南", link: "PTregister.html" },
+          { text: "PT论坛规则", link: "PTrules.html" }
         ],
       }],
       '/data/':[{
-        text: "使用指导",
+        text: "索引",
         collapsed: false,
         items: [
-          { text: "介绍", link: "/guide/getting-started.html" },
+          { text: "主页", link: "index.html" },
+          { text: "BBS注册指南", link: "BBSregister.html" },
+          { text: "BBS论坛规则", link: "BBSrules.html" },
+          { text: "PT注册指南", link: "PTregister.html" },
+          { text: "PT论坛规则", link: "PTrules.html" }
         ],
       }]
     },
@@ -33,7 +38,6 @@ export default defineConfig({
 });
 function nav() {
   return [
-    { text: '使用文档', link: '/guide/getting-started.html', activeMatch: '/guide/' },
     { text: 'QQ群', link: '/more/qq.html', activeMatch: '/more/qq' },
     { text: '微信公众号', link: '/data/help.html', activeMatch: '/data/' },
 
