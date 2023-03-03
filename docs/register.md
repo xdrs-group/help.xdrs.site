@@ -9,12 +9,12 @@
 ### BBS注册的一般流程为：①获取邀请码-->②注册-->③邮箱验证
 ::: tip BBS可在校外VPN方式下访问 
 :::
-### ①获取邀请码
+## ①获取邀请码
 * 论坛用户在网页版本论坛中点击“邀请好友”按钮，使用金币兑换邀请码，
 邀请用户访问邀请链接，或者在BBS[注册界面](https://rs.xidian.edu.cn/member.php?mod=register "BBS注册")使用邀请码即可
 ::: warning  Tips：当前暂不开放官方邀请码获取方式，仅可论坛用户邀请注册！
 :::
-### ②注册
+## ②注册
 ::: danger  Tips：请在网页端完成如下操作 
 :::
 1. **打开注册链接，下图，选择“我要注册”进入下一步**
@@ -49,7 +49,7 @@ Note6：为什么我注册（或登录）时提示邀请码失效等各种非常
 5. **填写确认无误后，点击提交！**
 ![注册示例05](https://res.xdrs.site/help.xdrs.site/images/BBSreg5.png)
 
-### ③邮箱验证
+## ③邮箱验证
 6. **前去注册邮箱进行验证，点击链接以完成验证**
 ![注册示例06](https://res.xdrs.site/help.xdrs.site/images/BBSreg6.png)
 ![注册示例07](https://res.xdrs.site/help.xdrs.site/images/BBSreg7.png)

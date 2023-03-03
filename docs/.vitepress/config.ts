@@ -17,7 +17,8 @@ export default defineConfig({
         items: [
           { text: "主页", link: "index.html" },
           { text: "注册指南", link: "register.html" },
-          { text: "论坛规则", link: "rules.html" }
+          { text: "论坛规则", link: "rules.html" },
+          { text: "常见问题集锦", link: "QandA.html" }
         ],
       }],
       '/data/':[{
@@ -26,16 +27,17 @@ export default defineConfig({
         items: [
           { text: "主页", link: "index.html" },
           { text: "注册指南", link: "register.html" },
-          { text: "论坛规则", link: "rules.html" }
+          { text: "论坛规则", link: "rules.html" },
+          { text: "常见问题集锦", link: "QandA.html" }
         ],
       }]
     },
   },
 });
+
+
 function nav() {
   return [
-    { text: 'QQ群', link: '/more/qq.html', activeMatch: '/more/qq' },
-    { text: '微信公众号', link: '/data/help.html', activeMatch: '/data/' },
-
+    { text: '👨‍👨‍👦‍👦睿思帮助群', link: 'https://qm.qq.com/cgi-bin/qm/qr?k=1HJMJ2b8egrCbyReT-xRUoAD58rYMjWK&jump_from=webapi&authKey=boCbnfFr0jYeHdiUk3IbbkBxJfrBk1MYOK02VsuadYb4nR0lDiwue1eXJJmMRe4r'} 
   ]
 }
