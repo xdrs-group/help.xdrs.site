@@ -78,3 +78,8 @@ __①进入论坛；在页面右上角，头像附近，选择②设置，在展
 
 ## 1.魔力值到底是什么玩意儿，我怎样才能得到它？
 请前往PT页[睿思PT魔力值系统](https://resource.xidian.edu.cn/mybonus.php)，向下滑动页面即有说明！
+
+## 2. PT账号的注册，验证与找回密码？
+对于这一块，目前没有同学问这个问题，可见[PT首页](https://resource.xidian.edu.cn/)
+
+![PT问题](https://res.xdrs.site/help.xdrs.site/images/PT_Question.JPG)
