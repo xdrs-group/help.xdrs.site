@@ -55,9 +55,3 @@ Note6：为什么我注册（或登录）时提示邀请码失效等各种非常
 ![注册示例07](https://res.xdrs.site/help.xdrs.site/images/BBSreg7.png)
 7. **<font color=blue>用户组显示为“西电托儿所”，注册成功啦，开启你的睿思之旅吧！😋</font>**
 ![注册示例08](https://res.xdrs.site/help.xdrs.site/images/BBSreg8.png)
-## 帮助
-:::tip tips:
-* 请加入 睿思帮助群：138367402
-* 专门处理睿思事务的群聊，解决问题后请主动退群，群内不留人。
-* 注：不处理邀请码申请问题
-:::
